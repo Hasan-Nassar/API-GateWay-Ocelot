@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+      <DocumentationFile>bin\Debug\Course.xml</DocumentationFile>
+      <NoWarn>1701;1702;1591</NoWarn>
+    </PropertyGroup>
+
+    <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+      <NoWarn>1701;1702;1591</NoWarn>
+      <DocumentationFile>bin\Release\Course.xml</DocumentationFile>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="AspNetCore.Jwt" Version="1.1.2" />
+      <PackageReference Include="AutoMapper" Version="10.0.0" />
+      <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.1" />
+      <PackageReference Include="FluentValidation.AspNetCore" Version="9.3.0-preview2" />
+      <PackageReference Include="Microsoft.EntityFrameWorkCore.Design" Version="3.1.9">
+        <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+        <PrivateAssets>all</PrivateAssets>
+      </PackageReference>
+      <PackageReference Include="Microsoft.EntityFrameWorkCore.SqlServer" Version="3.1.9" />
+      <PackageReference Include="Scrutor" Version="3.2.2" />
+      <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+    </ItemGroup>
+    <!--<ItemGroup>
+      <DotNetCliToolReference Include="Microsoft.DotNet.Watcher.Tools" Version="1.0.0" />
+    </ItemGroup>-->
+   <!-- <ItemGroup>
+        <DotNetCliToolReference Include="Microsoft.EntityFrameWork.Tools.DotNet" Version="1.0.0" />
+    </ItemGroup>-->
+
+
+</Project>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Course</name>
+    </assembly>
+    <members>
+        <member name="M:Course.Controllers.CourseController.AddCourse(Course.Core.Dto.CourseDto)">
+            <summary>
+            Add Course
+            </summary>
+            <param name="courseDto"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Course.Controllers.CourseController.RemoveCourse(System.Int32)">
+            <summary>
+            Delete Course
+            </summary>
+            <param name="courseId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Course.Controllers.CourseController.GetCourse(System.Int32)">
+            <summary>
+            Get Course 
+            </summary>
+            <param name="courseId"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Course.Controllers.CourseController.GetAll(System.Nullable{System.Int32},System.Nullable{System.Int32})">
+            <summary>
+            Get All Course
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Course.Controllers.CourseController.UpdatePost(System.Int32,Course.Core.Dto.CourseDto)">
+            <summary>
+            EditCourse
+            </summary>
+            <param name="id"></param>
+            <param name="courseDto"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\DELL\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\DELL\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_Task2.1902679888.00" t="ExcludeRecursive" />
+    <e p="C:\Users\DELL\Desktop\Task2" t="IncludeFlat">
+      <e p="APIGateWay" t="IncludeRecursive">
+        <e p="APIGateWay.csproj" t="IncludeRecursive" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="APIGateWay.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Ocelot.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+      </e>
+      <e p="Course" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="CourseController.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Dto" t="Include">
+            <e p="CourseDto.cs" t="Include" />
+            <e p="PagingDto.cs" t="Include" />
+          </e>
+          <e p="Entity" t="Include">
+            <e p="Course.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Course.csproj" t="IncludeRecursive" />
+        <e p="Mapping" t="Include">
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201014160301_InitialModel.cs" t="Include" />
+          <e p="20201014160301_InitialModel.Designer.cs" t="Include" />
+          <e p="20201018114745_InitialCreate.cs" t="Include" />
+          <e p="20201018114745_InitialCreate.Designer.cs" t="Include" />
+          <e p="CourseDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Course.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Persistence" t="Include">
+          <e p="Classes" t="Include">
+            <e p="BaseRepository.cs" t="Include" />
+            <e p="CourseRepository.cs" t="Include" />
+            <e p="UnitOfWork.cs" t="Include" />
+          </e>
+          <e p="Context" t="Include">
+            <e p="CourseDbContext.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IBaseRepository.cs" t="Include" />
+            <e p="ICourseRepository.cs" t="Include" />
+            <e p="IUnitOfWork.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="Interface" t="Include">
+            <e p="ICourseService.cs" t="Include" />
+          </e>
+          <e p="Service" t="Include">
+            <e p="CourseService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="Validator" t="Include">
+          <e p="CourseValidator.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Task2.sln" t="IncludeFlat" />
+      <e p="User" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="UserController.cs" t="Include" />
+        </e>
+        <e p="Core" t="Include">
+          <e p="Dto" t="Include">
+            <e p="CreateUserDto.cs" t="Include" />
+            <e p="PagingDto.cs" t="Include" />
+            <e p="UserDto.cs" t="Include" />
+          </e>
+          <e p="Entities" t="Include">
+            <e p="User.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Mapping" t="Include">
+          <e p="MappingProfile.cs" t="Include" />
+        </e>
+        <e p="Migrations" t="Include">
+          <e p="20201018114712_InitialCreate.cs" t="Include" />
+          <e p="20201018114712_InitialCreate.Designer.cs" t="Include" />
+          <e p="UserDbContextModelSnapshot.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="User.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Persistence" t="Include">
+          <e p="Classes" t="Include">
+            <e p="BaseRepository.cs" t="Include" />
+            <e p="UnitOfWork.cs" t="Include" />
+            <e p="UserRepository.cs" t="Include" />
+          </e>
+          <e p="Context" t="Include">
+            <e p="UserDbContext.cs" t="Include" />
+          </e>
+          <e p="Interfaces" t="Include">
+            <e p="IBaseRepository.cs" t="Include" />
+            <e p="IUnitOfWork.cs" t="Include" />
+            <e p="IUserRepository.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Services" t="Include">
+          <e p="Interface" t="Include">
+            <e p="IUserService.cs" t="Include" />
+          </e>
+          <e p="Service" t="Include">
+            <e p="UserService.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="User.csproj" t="IncludeRecursive" />
+        <e p="Validator" t="Include">
+          <e p="UserValidator.cs" t="Include" />
+        </e>
+      </e>
+    </e>
+  </component>
+</project>
