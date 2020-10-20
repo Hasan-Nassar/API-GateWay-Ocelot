@@ -4,40 +4,5 @@
         <name>User</name>
     </assembly>
     <members>
-        <member name="M:User.Controllers.UserController.AddUser(User.Core.Dto.CreateUserDto)">
-            <summary>
-            Add New User
-            </summary>
-            <param name="createUserDto"></param>
-            <returns></returns>
-        </member>
-        <member name="M:User.Controllers.UserController.RemoveUser(System.String)">
-            <summary>
-            Remove a User
-            </summary>
-            <param name="userId"></param>
-            <returns></returns>
-        </member>
-        <member name="M:User.Controllers.UserController.GetUser(System.String)">
-            <summary>
-            Get User By Id
-            </summary>
-            <param name="userId"></param>
-            <returns></returns>
-        </member>
-        <member name="M:User.Controllers.UserController.GetAllUser(System.Nullable{System.Int32},System.Nullable{System.Int32})">
-            <summary>
-            Get All User
-            </summary>
-            <returns></returns>
-        </member>
-        <member name="M:User.Controllers.UserController.UpdatePost(System.String,User.Core.Dto.CreateUserDto)">
-            <summary>
-            EditUser
-            </summary>
-            <param name="id"></param>
-            <param name="createUserDto"></param>
-            <returns></returns>
-        </member>
     </members>
 </doc>

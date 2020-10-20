@@ -21,7 +21,7 @@ namespace Course.Persistence.Classes
         {
             _context.Set<TEntity>().Remove(entity);
         }
-
+        
         public void Update(TEntity entity)
         {
             _context.Set<TEntity>().Attach(entity);

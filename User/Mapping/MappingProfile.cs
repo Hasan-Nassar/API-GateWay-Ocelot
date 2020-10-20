@@ -1,5 +1,6 @@
 ﻿using AutoMapper;
 using User.Core.Dto;
+using User.Core.Entities;
 
 namespace User.Mapping
 {
@@ -7,9 +8,12 @@ namespace User.Mapping
     {
         public MappingProfile()
         {
-            CreateMap<Core.Entities.User, UserDto>().ReverseMap();
+            CreateMap(typeof(PagingDto<>), typeof(PagingDto<>));
+            CreateMap<PagingDto<ApplicationUser>, PagingDto<LoginDto>>();
+            CreateMap<Core.Entities.ApplicationUser, UserDto>().ReverseMap();
             CreateMap<CreateUserDto, UserDto>().ReverseMap();
-            CreateMap<CreateUserDto, Core.Entities.User>().ReverseMap();
+            CreateMap<CreateUserDto, Core.Entities.ApplicationUser>().ReverseMap();
+            CreateMap<ApplicationUser, LoginDto>();
         }
     }
 }

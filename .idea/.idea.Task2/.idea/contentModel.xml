@@ -96,24 +96,31 @@
         <e p="appsettings.json" t="Include" />
         <e p="bin" t="ExcludeRecursive" />
         <e p="Controllers" t="Include">
+          <e p="AccountController.cs" t="Include" />
+          <e p="Administrationcontroller.cs" t="Include" />
+          <e p="BaseController.cs" t="Include" />
           <e p="UserController.cs" t="Include" />
         </e>
         <e p="Core" t="Include">
           <e p="Dto" t="Include">
+            <e p="AssignRoleDto.cs" t="Include" />
+            <e p="CreateRoleDto.cs" t="Include" />
             <e p="CreateUserDto.cs" t="Include" />
+            <e p="LoginDto.cs" t="Include" />
             <e p="PagingDto.cs" t="Include" />
+            <e p="RegisterDto.cs" t="Include" />
             <e p="UserDto.cs" t="Include" />
           </e>
           <e p="Entities" t="Include">
-            <e p="User.cs" t="Include" />
+            <e p="ApplicationUser.cs" t="Include" />
           </e>
         </e>
         <e p="Mapping" t="Include">
           <e p="MappingProfile.cs" t="Include" />
         </e>
         <e p="Migrations" t="Include">
-          <e p="20201018114712_InitialCreate.cs" t="Include" />
-          <e p="20201018114712_InitialCreate.Designer.cs" t="Include" />
+          <e p="20201019130157_InitialCreate.cs" t="Include" />
+          <e p="20201019130157_InitialCreate.Designer.cs" t="Include" />
           <e p="UserDbContextModelSnapshot.cs" t="Include" />
         </e>
         <e p="obj" t="ExcludeRecursive">
@@ -144,9 +151,11 @@
         </e>
         <e p="Services" t="Include">
           <e p="Interface" t="Include">
+            <e p="IAdminstrationservice.cs" t="Include" />
             <e p="IUserService.cs" t="Include" />
           </e>
           <e p="Service" t="Include">
+            <e p="Adminstrationservice.cs" t="Include" />
             <e p="UserService.cs" t="Include" />
           </e>
         </e>

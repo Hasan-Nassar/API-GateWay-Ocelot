@@ -1,5 +1,6 @@
 ﻿using System.Threading.Tasks;
 using AutoMapper;
+using User.Core.Entities;
 using User.Persistence.Context;
 using User.Persistence.Interfaces;
 
@@ -7,16 +8,15 @@ namespace User.Persistence.Classes
 {
     public class UnitOfWork : IUnitOfWork
     {
-        private readonly UserDbContext _context;
-        
+        public  readonly UserDbContext _context;
+     
+        public IBaseRepository<ApplicationUser> AccountRepository { get; }
         public UnitOfWork(UserDbContext context)
         {
+           
+            AccountRepository = new BaseRepository<ApplicationUser>(context);
             _context = context;
-            UserRepository = new UserRepository(context);
         }
-
-
-        public UserRepository UserRepository { get; }
 
         public async Task CompleteAsync()
         {

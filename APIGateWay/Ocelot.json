@@ -1,21 +1,16 @@
 ﻿{
   "Routes": [
     {
-      "DownstreamPathTemplate": "/api/{API}",
+      "DownstreamPathTemplate": "/Course/{API}",
       "DownstreamScheme": "http",
       "DownstreamHostAndPorts": [
         {
           "Host": "localhost",
-          "Port": 5001
+          "Port": 5001  
         }
       ],
-      "UpstreamPathTemplate": "/user/{API}",
-      "UpstreamHttpMethod": [
-        "Get",
-        "Post",
-        "Delete",
-        "Put"
-      ]
+      "UpstreamPathTemplate": "/Course/{API}",
+      "UpstreamHttpMethod": ["Get", "Post", "Delete", "Put"] 
     },
     {
       "DownstreamPathTemplate": "/swagger/v1/swagger.json",
@@ -38,13 +33,8 @@
           "Port": 5002
         }
       ],
-      "UpstreamPathTemplate": "/User/{API}}",
-      "UpstreamHttpMethod": [
-        "Get",
-        "Post",
-        "Delete",
-        "Put"
-      ]
+      "UpstreamPathTemplate": "/User/{API}",
+      "UpstreamHttpMethod": ["Get", "Post", "Delete", "Put"]
     },
     {
       "DownstreamPathTemplate": "/swagger/v1/swagger.json",
@@ -56,12 +46,7 @@
         }
       ],
       "UpstreamPathTemplate": "/swagger2/v1/swagger.json",
-      "UpstreamHttpMethod": [
-        "Get",
-        "Post",
-        "Delete",
-        "Put"
-      ]
+      "UpstreamHttpMethod": ["Get", "Post", "Delete", "Put"]
     }
   ],
   "GlobalConfiguration": {

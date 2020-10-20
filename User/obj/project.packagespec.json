@@ -39,13 +39,25 @@
           "target": "Package",
           "version": "[9.3.0-preview2, )"
         },
-        "Microsoft.EntityFrameWorkCore.Design": {
+        "Microsoft.AspNetCore.Authentication.JwtBearer": {
+          "target": "Package",
+          "version": "[2.1.1, )"
+        },
+        "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.9, )"
+        },
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[3.1.9, )"
+        },
+        "Microsoft.EntityFrameworkCore.Design": {
           "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
           "suppressParent": "All",
           "target": "Package",
           "version": "[3.1.9, )"
         },
-        "Microsoft.EntityFrameWorkCore.SqlServer": {
+        "Microsoft.EntityFrameworkCore.SqlServer": {
           "target": "Package",
           "version": "[3.1.9, )"
         },

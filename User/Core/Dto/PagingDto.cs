@@ -2,10 +2,9 @@
 
 namespace User.Core.Dto
 {
-    public class PagingDto
+    public class PagingDto<T>
     {
-        public IEnumerable<UserDto> Result { set; get; }
-        
-        public int TotalCount { get; set; }
+        public int TotalCount { set; get; }
+        public IList<T> Result { set; get; }
     }
 }

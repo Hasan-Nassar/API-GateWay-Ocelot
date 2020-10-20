@@ -2,12 +2,13 @@
 using Course.Core.Dto;
 using Course.Services.Interface;
 using Microsoft.AspNetCore.Mvc;
+    
 
 
 namespace Course.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("/[controller]")]
     public class CourseController : Controller
     {
         

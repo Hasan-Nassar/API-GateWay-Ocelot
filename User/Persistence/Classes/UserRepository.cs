@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Linq;
 using System.Threading.Tasks;
 using AutoMapper;
@@ -9,7 +9,7 @@ using User.Persistence.Interfaces;
 
 namespace User.Persistence.Classes
 {
-    public class UserRepository:BaseRepository<Core.Entities.User> , IUserRepository
+    public class UserRepository:BaseRepository<Core.Entities.ApplicationUser> , IUserRepository
     {
         private readonly UserDbContext _context;
       
@@ -22,16 +22,16 @@ namespace User.Persistence.Classes
         
         public void Remove(string id) 
         {
-            var user = _context.Users.Find(id);
+            var user = _context.ApplicationUsers.Find(id);
             if (user == null)
                 throw new Exception("User Not Found! ");
-            _context.Users.Remove(user);
+            _context.ApplicationUsers.Remove(user);
           
         }
         
-        public async Task<Core.Entities.User> GetById(string userId)
+        public async Task<Core.Entities.ApplicationUser> GetById(string userId)
         {
-            var user = await _context.Users
+            var user = await _context.ApplicationUsers
                 .SingleOrDefaultAsync(u => u.Id == userId);
             return user;
 
@@ -44,8 +44,8 @@ namespace User.Persistence.Classes
             if (pageIndex <= 0) pageIndex = 1;
             if (pageSize <= 0) pageIndex = 10;
             
-            result.TotalCount= await _context.Users.CountAsync();
-            var query = _context.Users.Select(w=>
+            result.TotalCount= await _context.ApplicationUsers.CountAsync();
+            var query = _context.ApplicationUsers.Select(w=>
                 new UserDto()
                 {
                     Id = w.Id,
@@ -60,4 +60,4 @@ namespace User.Persistence.Classes
 
         }
     }
-}
+}*/
