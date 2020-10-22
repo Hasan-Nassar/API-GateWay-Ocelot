@@ -29,7 +29,7 @@ namespace Course
         
         public void ConfigureServices(IServiceCollection services)
         {
-            
+            services.AddConsulConfig(Configuration);
             services.AddTransient<IValidator<CourseDto>, CourseValidator>();
            
             services.Scan(scan => scan
@@ -102,7 +102,7 @@ namespace Course
 
             app.UseAuthentication();
 
-            
+            app.UseConsul(Configuration);
             app.UseRouting();
 
             app.UseAuthorization();

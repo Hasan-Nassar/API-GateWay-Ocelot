@@ -33,7 +33,8 @@ namespace User
         private IConfiguration Configuration { get; }
 
 public void ConfigureServices(IServiceCollection services)
-        {
+{
+    services.AddConsulConfig(Configuration);
             /*services.AddControllers().AddNewtonsoftJson(options => options.SerializerSettings.ReferenceLoopHandling = Newtonsoft.Json.ReferenceLoopHandling.Ignore);*/
             services.AddControllers();
            // services.AddSingleton<IFileProvider>(new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), "wwwroot")));
@@ -120,6 +121,7 @@ public void ConfigureServices(IServiceCollection services)
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseConsul(Configuration);
             app.UseHttpsRedirection();
             app.UseRouting();
             app.UseAuthentication();

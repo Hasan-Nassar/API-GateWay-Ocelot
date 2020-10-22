@@ -45,6 +45,18 @@
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
         }
       },
+      "Consul/1.6.1.1": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "10.0.3"
+        },
+        "compile": {
+          "lib/netstandard2.0/Consul.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Consul.dll": {}
+        }
+      },
       "FluentValidation/9.3.0-preview2": {
         "type": "package",
         "compile": {
@@ -3343,6 +3355,19 @@
         "automapper.extensions.microsoft.dependencyinjection.nuspec",
         "icon.png",
         "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll"
+      ]
+    },
+    "Consul/1.6.1.1": {
+      "sha512": "AJkBiix1bT3cSZRO6OD0Ee31Co1qgVkmVBFwpxym9WdxH5K6LfmAZ8Vb8nGvo9EKC+ir2sv5fKIrY75aENcMDA==",
+      "type": "package",
+      "path": "consul/1.6.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "consul.1.6.1.1.nupkg.sha512",
+        "consul.nuspec",
+        "lib/net461/Consul.dll",
+        "lib/netstandard2.0/Consul.dll"
       ]
     },
     "FluentValidation/9.3.0-preview2": {
@@ -9917,6 +9942,7 @@
       "AspNetCore.Jwt >= 1.1.2",
       "AutoMapper >= 10.0.0",
       "AutoMapper.Extensions.Microsoft.DependencyInjection >= 8.0.1",
+      "Consul >= 1.6.1.1",
       "FluentValidation.AspNetCore >= 9.3.0-preview2",
       "Microsoft.EntityFrameWorkCore.Design >= 3.1.9",
       "Microsoft.EntityFrameWorkCore.SqlServer >= 3.1.9",
@@ -9972,6 +9998,10 @@
           "AutoMapper.Extensions.Microsoft.DependencyInjection": {
             "target": "Package",
             "version": "[8.0.1, )"
+          },
+          "Consul": {
+            "target": "Package",
+            "version": "[1.6.1.1, )"
           },
           "FluentValidation.AspNetCore": {
             "target": "Package",

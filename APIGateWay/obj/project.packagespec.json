@@ -27,7 +27,15 @@
   "frameworks": {
     "netcoreapp3.1": {
       "dependencies": {
+        "Consul": {
+          "target": "Package",
+          "version": "[1.6.1.1, )"
+        },
         "Ocelot": {
+          "target": "Package",
+          "version": "[16.0.1, )"
+        },
+        "Ocelot.Provider.Consul": {
           "target": "Package",
           "version": "[16.0.1, )"
         },

@@ -37,3 +37,5 @@ C:\Users\DELL\Desktop\Task2\APIGateWay\bin\Debug\netcoreapp3.1\Swashbuckle.AspNe
 C:\Users\DELL\Desktop\Task2\APIGateWay\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
 C:\Users\DELL\Desktop\Task2\APIGateWay\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
 C:\Users\DELL\Desktop\Task2\APIGateWay\bin\Debug\netcoreapp3.1\Scrutor.dll
+C:\Users\DELL\Desktop\Task2\APIGateWay\bin\Debug\netcoreapp3.1\Consul.dll
+C:\Users\DELL\Desktop\Task2\APIGateWay\bin\Debug\netcoreapp3.1\Ocelot.Provider.Consul.dll
