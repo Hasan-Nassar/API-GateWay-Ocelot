@@ -77,4 +77,3 @@ C:\Users\DELL\Desktop\Task2\User\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Id
 C:\Users\DELL\Desktop\Task2\User\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
 C:\Users\DELL\Desktop\Task2\User\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\DELL\Desktop\Task2\User\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
-C:\Users\DELL\Desktop\Task2\User\bin\Debug\netcoreapp3.1\Consul.dll

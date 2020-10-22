@@ -2,18 +2,6 @@
   "version": 3,
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "Consul/1.6.1.1": {
-        "type": "package",
-        "dependencies": {
-          "Newtonsoft.Json": "10.0.3"
-        },
-        "compile": {
-          "lib/netstandard2.0/Consul.dll": {}
-        },
-        "runtime": {
-          "lib/netstandard2.0/Consul.dll": {}
-        }
-      },
       "FluentValidation/8.6.2": {
         "type": "package",
         "dependencies": {
@@ -208,19 +196,6 @@
         },
         "runtime": {
           "lib/netcoreapp3.1/Ocelot.dll": {}
-        }
-      },
-      "Ocelot.Provider.Consul/16.0.1": {
-        "type": "package",
-        "dependencies": {
-          "Consul": "0.7.2.6",
-          "Ocelot": "16.0.1"
-        },
-        "compile": {
-          "lib/netcoreapp3.1/Ocelot.Provider.Consul.dll": {}
-        },
-        "runtime": {
-          "lib/netcoreapp3.1/Ocelot.Provider.Consul.dll": {}
         }
       },
       "runtime.native.System/4.0.0": {
@@ -709,19 +684,6 @@
     }
   },
   "libraries": {
-    "Consul/1.6.1.1": {
-      "sha512": "AJkBiix1bT3cSZRO6OD0Ee31Co1qgVkmVBFwpxym9WdxH5K6LfmAZ8Vb8nGvo9EKC+ir2sv5fKIrY75aENcMDA==",
-      "type": "package",
-      "path": "consul/1.6.1.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "consul.1.6.1.1.nupkg.sha512",
-        "consul.nuspec",
-        "lib/net461/Consul.dll",
-        "lib/netstandard2.0/Consul.dll"
-      ]
-    },
     "FluentValidation/8.6.2": {
       "sha512": "N2vz+f6pAX9AI19hu83U2LJjjc/ETzWGlICVanu3DIG76QhzEu3PR/CQSFBX69PRuBTivrW4jhBzeV7dXIfqyw==",
       "type": "package",
@@ -1050,18 +1012,6 @@
         "lib/netcoreapp3.1/Ocelot.dll",
         "ocelot.16.0.1.nupkg.sha512",
         "ocelot.nuspec"
-      ]
-    },
-    "Ocelot.Provider.Consul/16.0.1": {
-      "sha512": "v4RRWTj47RPhXAx0IRKURvRsKoUKYpqp9rVAJTNkTTW7u9X4ZsdkS1CYDk154fpCGRxfcVd3/LgvvoKrdem+5Q==",
-      "type": "package",
-      "path": "ocelot.provider.consul/16.0.1",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "lib/netcoreapp3.1/Ocelot.Provider.Consul.dll",
-        "ocelot.provider.consul.16.0.1.nupkg.sha512",
-        "ocelot.provider.consul.nuspec"
       ]
     },
     "runtime.native.System/4.0.0": {
@@ -2933,9 +2883,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
-      "Consul >= 1.6.1.1",
       "Ocelot >= 16.0.1",
-      "Ocelot.Provider.Consul >= 16.0.1",
       "Scrutor >= 3.2.2",
       "Swashbuckle.AspNetCore >= 5.6.3"
     ]
@@ -2977,15 +2925,7 @@
     "frameworks": {
       "netcoreapp3.1": {
         "dependencies": {
-          "Consul": {
-            "target": "Package",
-            "version": "[1.6.1.1, )"
-          },
           "Ocelot": {
-            "target": "Package",
-            "version": "[16.0.1, )"
-          },
-          "Ocelot.Provider.Consul": {
             "target": "Package",
             "version": "[16.0.1, )"
           },

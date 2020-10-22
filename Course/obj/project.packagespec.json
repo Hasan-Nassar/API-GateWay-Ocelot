@@ -39,10 +39,6 @@
           "target": "Package",
           "version": "[8.0.1, )"
         },
-        "Consul": {
-          "target": "Package",
-          "version": "[1.6.1.1, )"
-        },
         "FluentValidation.AspNetCore": {
           "target": "Package",
           "version": "[9.3.0-preview2, )"

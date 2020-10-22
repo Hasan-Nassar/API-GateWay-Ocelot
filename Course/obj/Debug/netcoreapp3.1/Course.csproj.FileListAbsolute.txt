@@ -83,4 +83,3 @@ C:\Users\DELL\Desktop\Task2\Course\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCor
 C:\Users\DELL\Desktop\Task2\Course\obj\Debug\netcoreapp3.1\Course.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\DELL\Desktop\Task2\Course\bin\Debug\netcoreapp3.1\Course.xml
 C:\Users\DELL\Desktop\Task2\Course\bin\Debug\netcoreapp3.1\Scrutor.dll
-C:\Users\DELL\Desktop\Task2\Course\bin\Debug\netcoreapp3.1\Consul.dll

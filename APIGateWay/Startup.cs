@@ -5,8 +5,6 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.OpenApi.Models;
 using Ocelot.DependencyInjection;
 using Ocelot.Middleware;
-using Ocelot.Provider.Consul;
-
 namespace APIGateWay
 {
 public class Startup
@@ -22,10 +20,8 @@ public class Startup
         {
             c.SwaggerDoc("v1", new OpenApiInfo{ Version = "v1", Title = "Task2 Api" });
         });
-        
-        services.AddControllers();
-        services.AddOcelot().AddConsul();
-
+        services.AddOcelot(Configuration);
+       
     }
 
     public async void Configure(IApplicationBuilder app, IWebHostEnvironment env)
