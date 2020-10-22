@@ -40,7 +40,6 @@
           </e>
         </e>
         <e p="Course.csproj" t="IncludeRecursive" />
-        <e p="Extensions.cs" t="Include" />
         <e p="Mapping" t="Include">
           <e p="MappingProfile.cs" t="Include" />
         </e>
@@ -100,6 +99,7 @@
           <e p="AccountController.cs" t="Include" />
           <e p="Administrationcontroller.cs" t="Include" />
           <e p="BaseController.cs" t="Include" />
+          <e p="UserController.cs" t="Include" />
         </e>
         <e p="Core" t="Include">
           <e p="Dto" t="Include">
@@ -115,7 +115,6 @@
             <e p="ApplicationUser.cs" t="Include" />
           </e>
         </e>
-        <e p="Extensions.cs" t="Include" />
         <e p="Mapping" t="Include">
           <e p="MappingProfile.cs" t="Include" />
         </e>

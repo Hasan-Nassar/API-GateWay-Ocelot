@@ -24,12 +24,6 @@
       "applicationUrl": "http://localhost:5001",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
-      },
-      "ServiceDiscovery": {
-        "serviceDiscoveryAddress": "http://localhost:8500",
-        "serviceName": "Course",
-        "serviceId": "1",
-        "serviceAddress": "http://localhost:5001"
       }
     }
   }

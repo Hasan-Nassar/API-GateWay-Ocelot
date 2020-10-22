@@ -5,7 +5,6 @@
     <projectFile>User/User.csproj</projectFile>
     <projectFile>Common/Common.csproj</projectFile>
     <projectFile>APIGateWay/APIGateWay.csproj</projectFile>
-    <projectFile>Common2/Common2.csproj</projectFile>
   </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
@@ -32,55 +31,47 @@
     <list default="true" id="0622e021-1184-4e36-ae09-528ee6e05e46" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Task2/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task2/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Task2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Task2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/APIGateWay.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/APIGateWay.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/Ocelot.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/Ocelot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/Properties/launchSettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/APIGateWay.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Ocelot.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Ocelot.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/APIGateWay.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/APIGateWay.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.MvcApplicationPartsAssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.MvcApplicationPartsAssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.dll" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/Debug/netcoreapp3.1/APIGateWay.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/APIGateWay/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/APIGateWay/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/APIGateWay/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Course.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Course.csproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Startup.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Course.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Course.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/Controllers/CourseController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Controllers/CourseController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Course/Persistence/Classes/BaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Course/Persistence/Classes/BaseRepository.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Course.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Course.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/Properties/launchSettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/obj/Course.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/Course.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.assets.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.csproj.CoreCompileInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.csproj.FileListAbsolute.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.csprojAssemblyReference.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.dll" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/Debug/netcoreapp3.1/Course.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/project.assets.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/project.nuget.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Course/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/project.packagespec.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Course/obj/rider.project.restore.info" beforeDir="false" afterPath="$PROJECT_DIR$/Course/obj/rider.project.restore.info" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User/Controllers/UserController.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Controllers/UserController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Controllers/UserController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Core/Dto/PagingDto.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Core/Dto/PagingDto.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Core/Entities/User.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Core/Entities/ApplicationUser.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Mapping/MappingProfile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Mapping/MappingProfile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Migrations/20201018114712_InitialCreate.Designer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Migrations/20201018114712_InitialCreate.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Migrations/UserDbContextModelSnapshot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Classes/BaseRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Classes/BaseRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Classes/UnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Classes/UnitOfWork.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Classes/UserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Classes/UserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Context/UserDbContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Context/UserDbContext.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Interfaces/IBaseREpository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Interfaces/IBaseREpository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Interfaces/IUnitOfWork.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Interfaces/IUnitOfWork.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Persistence/Interfaces/IUserRepository.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Persistence/Interfaces/IUserRepository.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Services/Interface/IUserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Services/Interface/IUserService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/Services/Service/UserService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Services/Service/UserService.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/User/Startup.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/User.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/User/User.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/appsettings.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/User.xml" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/User.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.deps.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.xml" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/User.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/appsettings.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/bin/Debug/netcoreapp3.1/appsettings.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.assets.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.csproj.CoreCompileInputs.cache" afterDir="false" />
@@ -89,7 +80,6 @@
       <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.dll" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/Debug/netcoreapp3.1/User.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/obj/User.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/User.csproj.nuget.dgspec.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/User/obj/User.csproj.nuget.g.props" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/User.csproj.nuget.g.props" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/project.assets.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/project.nuget.cache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/User/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/User/obj/project.packagespec.json" afterDir="false" />
@@ -113,29 +103,44 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Course/Core/Dto/CourseDto.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/AD61CA47-F8B7-4CC6-93A0-BA44CC73B5C7/f6/2040f29c/IEquatable`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common2/ServiceDiscoveryHostedService.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Course/Core/Entity/Course.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/09B75507-E647-4D2C-BCFF-D09CD5A07C2B/84/cb682cbc/IValidator`1.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common2/ServiceDiscoveryExtensions.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/2A7B9519-FE31-4C9B-B8C4-5A3ED6673590/2/IdentityServiceCollectionExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common/ServiceDescoveryExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common2/ServiceConfig.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common/ServiceConfiExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common2/ServiceConfigExtension.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common/ServiceConfig.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common/ServiceDiscoveryHostedService.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common/Startup.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Common2/Startup.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F423A09D-18AD-41DA-973D-AA418BC06C2C/1/ConfigurationExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/97B940A0-8177-4587-87F5-127E5A9CD6A0/3/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/59D3A202-2913-4AF7-A40A-B032C1B323FE/2/IdentityDbContext.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Course/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Course/Startup.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/F423A09D-18AD-41DA-973D-AA418BC06C2C/1/ConfigurationExtensions.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/97B940A0-8177-4587-87F5-127E5A9CD6A0/3/IdentityUser.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/8C515D11-6774-4292-AE1E-0213E7791F08/8/IdentityBuilder.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/Course/Validator/CourseValidator.cs" />
+        <option value="$PROJECT_DIR$/Common/Extension/QueryableExtensions.cs" />
+        <option value="$PROJECT_DIR$/Common/Dto/PagedResult.cs" />
+        <option value="$PROJECT_DIR$/Course/appsettings.json" />
+        <option value="$PROJECT_DIR$/Course/Persistence/Classes/UnitOfWork.cs" />
+        <option value="$PROJECT_DIR$/Course/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Course/Persistence/Interfaces/IBaseRepository.cs" />
+        <option value="$PROJECT_DIR$/Course/Core/Dto/PagingDto.cs" />
+        <option value="$PROJECT_DIR$/Course/Persistence/Interfaces/ICourseRepository.cs" />
+        <option value="$PROJECT_DIR$/Course/Persistence/Classes/CourseRepository.cs" />
+        <option value="$PROJECT_DIR$/Course/Services/Interface/ICourseService.cs" />
+        <option value="$PROJECT_DIR$/Course/Services/Service/CourseService.cs" />
+        <option value="$PROJECT_DIR$/APIGateWay/Extensions/MiddleWareExtensions.cs" />
+        <option value="$PROJECT_DIR$/User/Validator/UserValidator.cs" />
+        <option value="$PROJECT_DIR$/User/Program.cs" />
+        <option value="$PROJECT_DIR$/APIGateWay/Properties/launchSettings.json" />
+        <option value="$PROJECT_DIR$/Course/Startup.cs" />
+        <option value="$PROJECT_DIR$/APIGateWay/Program.cs" />
+        <option value="$PROJECT_DIR$/Course/Persistence/Classes/BaseRepository.cs" />
+        <option value="$PROJECT_DIR$/User/Core/Entities/User.cs" />
+        <option value="$PROJECT_DIR$/User/Pages/User/Register.cshtml" />
+        <option value="$PROJECT_DIR$/User/User.csproj" />
+        <option value="$PROJECT_DIR$/Course/Controllers/CourseController.cs" />
+        <option value="$PROJECT_DIR$/User/Core/Dto/AssignRoleDto.cs" />
+        <option value="$PROJECT_DIR$/User/Core/Dto/CreateRoleDto.cs" />
         <option value="$PROJECT_DIR$/User/Core/Dto/LoginDto.cs" />
         <option value="$PROJECT_DIR$/User/Core/Dto/RegisterDto.cs" />
         <option value="$PROJECT_DIR$/User/Core/Dto/sd.cs" />
@@ -154,39 +159,14 @@
         <option value="$PROJECT_DIR$/User/Persistence/Interfaces/IUserRepository.cs" />
         <option value="$PROJECT_DIR$/User/Properties/launchSettings.json" />
         <option value="$PROJECT_DIR$/User/Services/Service/UserService.cs" />
+        <option value="$PROJECT_DIR$/User/appsettings.json" />
+        <option value="$PROJECT_DIR$/APIGateWay/Startup.cs" />
+        <option value="$PROJECT_DIR$/User/Startup.cs" />
+        <option value="$PROJECT_DIR$/APIGateWay/Ocelot.json" />
         <option value="$PROJECT_DIR$/User/Controllers/Administrationcontroller.cs" />
         <option value="$PROJECT_DIR$/User/Controllers/AccountController.cs" />
         <option value="$PROJECT_DIR$/User/Controllers/BaseController.cs" />
         <option value="$PROJECT_DIR$/User/Mapping/MappingProfile.cs" />
-        <option value="$PROJECT_DIR$/APIGateWay/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/APIGateWay/Clie.cs" />
-        <option value="$PROJECT_DIR$/APIGateWay/appsettings.json" />
-        <option value="$PROJECT_DIR$/APIGateWay/Program.cs" />
-        <option value="$PROJECT_DIR$/Common/ServiceDescoveryOption.cs" />
-        <option value="$PROJECT_DIR$/Common/appsettings.json" />
-        <option value="$PROJECT_DIR$/Course/Properties/launchSettings.json" />
-        <option value="$PROJECT_DIR$/Common/mid.cs" />
-        <option value="$PROJECT_DIR$/Common/ServiceConfig.cs" />
-        <option value="$PROJECT_DIR$/Common/ServiceDescoveryExtensions.cs" />
-        <option value="$PROJECT_DIR$/Common/ServiceConfiExtensions.cs" />
-        <option value="$PROJECT_DIR$/Common/ServiceDiscoveryHostedService.cs" />
-        <option value="$PROJECT_DIR$/Common/Program.cs" />
-        <option value="$PROJECT_DIR$/Common/Startup.cs" />
-        <option value="$PROJECT_DIR$/Common2/ServiceDiscoveryHostedService.cs" />
-        <option value="$PROJECT_DIR$/Common2/ServiceDiscoveryExtensions.cs" />
-        <option value="$PROJECT_DIR$/Common2/ServiceConfig.cs" />
-        <option value="$PROJECT_DIR$/Common2/ServiceConfigExtension.cs" />
-        <option value="$PROJECT_DIR$/User/Program.cs" />
-        <option value="$PROJECT_DIR$/User/static.cs" />
-        <option value="$PROJECT_DIR$/Course/Sta.cs" />
-        <option value="$PROJECT_DIR$/User/Startup.cs" />
-        <option value="$PROJECT_DIR$/Course/Startup.cs" />
-        <option value="$PROJECT_DIR$/Course/Extensions.cs" />
-        <option value="$PROJECT_DIR$/User/Extensions.cs" />
-        <option value="$PROJECT_DIR$/APIGateWay/Ocelot.json" />
-        <option value="$PROJECT_DIR$/APIGateWay/Startup.cs" />
-        <option value="$PROJECT_DIR$/Course/appsettings.json" />
-        <option value="$PROJECT_DIR$/User/appsettings.json" />
       </list>
     </option>
   </component>
@@ -213,41 +193,11 @@
     <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected=".NET Launch Settings Profile.APIGateWay">
+  <component name="RunManager" selected=".NET Launch Settings Profile.Course">
     <configuration name="APIGateWay" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
       <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/APIGateWay/APIGateWay.csproj" />
       <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
       <option name="LAUNCH_PROFILE_NAME" value="APIGateWay" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Common2" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Common2/Common2.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
-      <option name="LAUNCH_PROFILE_NAME" value="Common2" />
-      <option name="USE_EXTERNAL_CONSOLE" value="0" />
-      <option name="USE_MONO" value="0" />
-      <option name="RUNTIME_ARGUMENTS" value="" />
-      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
-      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
-      <option name="SEND_DEBUG_REQUEST" value="1" />
-      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
-      <method v="2">
-        <option name="Build" />
-      </method>
-    </configuration>
-    <configuration name="Common2: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
-      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Common2/Common2.csproj" />
-      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v3.1" />
-      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
       <option name="USE_EXTERNAL_CONSOLE" value="0" />
       <option name="USE_MONO" value="0" />
       <option name="RUNTIME_ARGUMENTS" value="" />
@@ -293,8 +243,6 @@
       <item itemvalue=".NET Launch Settings Profile.APIGateWay" />
       <item itemvalue=".NET Launch Settings Profile.Course" />
       <item itemvalue=".NET Launch Settings Profile.User" />
-      <item itemvalue=".NET Launch Settings Profile.Common2: IIS Express" />
-      <item itemvalue=".NET Launch Settings Profile.Common2" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -316,12 +264,6 @@
       <workItem from="1603091002208" duration="7996000" />
       <workItem from="1603101172457" duration="14693000" />
       <workItem from="1603176900895" duration="713000" />
-      <workItem from="1603178305985" duration="93000" />
-      <workItem from="1603178687993" duration="4276000" />
-      <workItem from="1603187987972" duration="14910000" />
-      <workItem from="1603263973343" duration="22050000" />
-      <workItem from="1603291233845" duration="4067000" />
-      <workItem from="1603348996076" duration="1627000" />
     </task>
     <servers />
   </component>
@@ -346,30 +288,30 @@
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="67" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603289739286">
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603012077554">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="223" y="67" width="1089" height="737" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603289739286" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1603012077554" />
     <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603023009001">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="520" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1603023009001" />
-    <state width="1493" height="107" key="GridCell.Tab.0.bottom" timestamp="1603350627013">
+    <state width="1493" height="107" key="GridCell.Tab.0.bottom" timestamp="1603177615818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="107" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603350627013" />
-    <state width="1493" height="107" key="GridCell.Tab.0.center" timestamp="1603350627013">
+    <state width="1493" height="107" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603177615818" />
+    <state width="1493" height="107" key="GridCell.Tab.0.center" timestamp="1603177615818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="107" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603350627013" />
-    <state width="1493" height="107" key="GridCell.Tab.0.left" timestamp="1603350627013">
+    <state width="1493" height="107" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603177615818" />
+    <state width="1493" height="107" key="GridCell.Tab.0.left" timestamp="1603177615818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="107" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603350627013" />
-    <state width="1493" height="107" key="GridCell.Tab.0.right" timestamp="1603350627013">
+    <state width="1493" height="107" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603177615818" />
+    <state width="1493" height="107" key="GridCell.Tab.0.right" timestamp="1603177615818">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="107" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603350627013" />
+    <state width="1493" height="107" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603177615818" />
     <state width="1493" height="288" key="GridCell.Tab.1.bottom" timestamp="1603019940385">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -434,10 +376,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="288" key="GridCell.Tab.4.right/0.0.1536.824@0.0.1536.824" timestamp="1603019940386" />
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1603288336394">
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size" timestamp="1602757281649">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1603288336394" />
+    <state x="361" y="144" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1602757281649" />
     <state x="277" y="57" key="SettingsEditor" timestamp="1602765643573">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -446,9 +388,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="322" y="142" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1603019923588" />
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1603293607190">
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1602658915701">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1603293607190" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1602658915701" />
   </component>
 </project>
